@@ -1,6 +1,7 @@
 # magazin
 
 A new Flutter project.
+link of Design : https://www.figma.com/design/AnxsrIon1oTYGngmhuYVQR/Magazin?node-id=0-1&p=f&t=gjODQZ8Nh1SHN72n-0
 
 ## Getting Started
 
